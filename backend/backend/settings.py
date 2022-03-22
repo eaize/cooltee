@@ -136,6 +136,10 @@ DATABASES = {
         'PASSWORD': 'b96f0ed1d13a0e7263da04f32cc0766d39053759383988be70bdb8072c4d963f'
     }
 }
+
+import dj_database_url
+db_from_env = dj_database_url.config(conn_max_age=500)
+DATABASES['default'].update(db_from_env)
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
