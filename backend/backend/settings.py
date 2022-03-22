@@ -129,11 +129,11 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'d49j0018kuevr9',
-        'HOST': 'ec2-18-215-96-22.compute-1.amazonaws.com',
+        'NAME':'d8gdtbdu9o8vmm',
+        'HOST': 'ec2-44-194-92-192.compute-1.amazonaws.com',
         'PORT': 5432,
-        'USER': 'zgepmsifcnzjgn',
-        'PASSWORD': 'fd9c1e384501506c5d5f12eb32e1a7cfcff11d4b76149ba2ed8dfcbe952099d7',
+        'USER': 'snvxkwknruorxl',
+        'PASSWORD': '4f7a88d8a9acaeed338e1dc8e42dbbe62e7ef30e4bbf802709eb471f8fa2a46d',
     }
 }
 # Password validation
