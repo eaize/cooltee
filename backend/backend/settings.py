@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-ov#r^^&xv&^0vmc(zj&h_t^$*52@8jicn=%*z*@s-=li!s_p@=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://cooltbackend.herokuapp.com', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 
@@ -197,4 +197,3 @@ cloudinary.config(
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
