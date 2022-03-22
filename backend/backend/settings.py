@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-ov#r^^&xv&^0vmc(zj&h_t^$*52@8jicn=%*z*@s-=li!s_p@=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://cooltbackend.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['https://cooltbackend.herokuapp.com', '127.0.0.1', 'localhost']
 
 
 
@@ -136,7 +136,6 @@ DATABASES = {
         'PASSWORD': 'b96f0ed1d13a0e7263da04f32cc0766d39053759383988be70bdb8072c4d963f'
     }
 }
-django_heroku.settings(locals())
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
@@ -196,5 +195,6 @@ cloudinary.config(
     secure=True
 )
 
-
+# Activate Django-Heroku.
+django_heroku.settings(locals())
 
