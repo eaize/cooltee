@@ -1,0 +1,275 @@
+.boxe {
+    background-color: var(--black-3);
+    width: inherit;
+    height: inherit;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: -webkit-box;
+}
+.formc {
+    display: inline-table;
+    padding-top: 89%;
+  }
+  .fist-name {
+    align-items: flex-end;
+    border-radius: 40px;
+    display: flex;
+    height: 56px;
+    min-width: 345px;
+    padding: 14px 39px;
+  }
+  .group-424 {
+    align-items: flex-end;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 713px;
+    width: 437px;
+  }
+  
+  .user-name {
+    letter-spacing: 0;
+    line-height: 13px;
+    min-height: 21px;
+    min-width: 73px;
+    white-space: nowrap;
+  }
+  .create {
+    z-index: 9;
+    display: inline-flex;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    width: 30%;
+    height: 74%;
+  }
+  .login {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 22px;
+    min-height: 33px;
+    white-space: nowrap;
+  }
+  .lorem-ipsum-is-simpl {
+    line-height: 25px;
+    text-align: center;
+    width: 257px;
+    padding-top: 14%;
+  }
+  .e-mail {
+    align-items: flex-end;
+    border-radius: 40px;
+    display: flex;
+    height: 56px;
+    min-width: 345px;
+    padding: 14px 39px;
+  }
+
+  .password {
+    align-items: flex-end;
+    border-radius: 40px;
+    display: flex;
+    height: 56px;
+    justify-content: space-between;
+    width: 345px;
+  }
+  .pss {
+    display: inline-flex !important;
+    justify-content: space-between !important;
+    align-content: center !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    margin-left: 2% !important;
+    margin-bottom: -25% !important;
+}
+  .forgot-password {
+    letter-spacing: 0;
+    line-height: 13px;
+    min-height: 21px;
+    white-space: nowrap;
+  }
+  .keep-me-signed-in {
+    letter-spacing: 0;
+    line-height: 13px;
+    min-height: 21px;
+    align-items: center;
+    white-space: nowrap;
+    display: contents;
+  }
+  
+  .password-1 {
+    height: 21px;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: -7.8px;
+    margin-left: 40px;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .noun_hide_2040068 {
+    height: 14.9px;
+    margin-bottom: -7.3px;
+    margin-right: 38.8px;
+    object-fit: cover;
+    width: 21.17px;
+  }
+
+  .rectangle-572 {
+    height: 14px;
+    width: 25px;
+  }
+.cent {
+  display: flex;
+  padding: 3%;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.close {
+    height: 13px;
+    object-fit: cover;
+    width: 13px;
+  }
+.pk {
+    margin-left: -17%;
+}
+.not-a-member-yet {
+    letter-spacing: 0;
+    line-height: 13px;
+    min-height: 21px;
+    white-space: nowrap;
+  }
+  .fist-name {
+    align-items: flex-end;
+    border-radius: 40px;
+    display: flex;
+    height: 56px;
+    margin-top: 44px;
+    min-width: 345px;
+    padding: 14px 39px;
+  }
+  
+  .user-name {
+    letter-spacing: 0;
+    line-height: 13px;
+    min-height: 21px;
+    min-width: 73px;
+    white-space: nowrap;
+  }
+  
+  .fist-name.email {
+    margin-top: 23px;
+  }
+  
+  .fist-name.email .user-name {
+    min-width: 37px;
+  }
+  
+  .fist-name.password {
+    margin-top: 22px;
+  }
+  
+  .fist-name.password .user-name {
+    min-width: 65px;
+  }
+  
+  .sing-up {
+    align-items: flex-end;
+    background-color: var(--purple-heart);
+    border-radius: 40px;
+    display: flex;
+    height: 56px;
+    justify-content: flex-end;
+    margin-top: 44px;
+    min-width: 345px;
+    padding: 13px 146px;
+  }
+  
+  .sign-up {
+    letter-spacing: 0;
+    line-height: 13px;
+    min-height: 21px;
+    min-width: 51px;
+    white-space: nowrap;
+  }
+  
+
+  .create-an-account-an {
+    letter-spacing: 0;
+    line-height: 20px;
+    min-height: 60px;
+    min-width: 242px;
+    text-align: center;
+    white-space: nowrap;
+    padding-bottom: 17%;
+  }
+  .create-account {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 613px;
+    position: relative;
+    width: 345px;
+    justify-content: space-around;
+    margin-right: 10%;
+    margin-top: 13%;
+  }
+.for {
+    display: inline-table;
+    padding-top: 16%;
+}
+.i-agree-to-the-googl {
+    color: var(--black);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxs);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 12px;
+    min-height: 37px;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    padding-top: 17%;
+    padding-bottom: 10%;
+}
+.wht {
+background-color: white !important;
+z-index: 10;
+display: inline-flex;
+position: relative;
+align-content: center;
+justify-content: center;
+align-items: center;
+flex-wrap: nowrap;
+flex-direction: row;
+width: 30%;
+height: 74%;
+}
+.goo {
+  display: inline-flex;
+  align-items: center;
+}
+
+#username {
+  color: black;
+  margin-left: 15%;
+}
+
+.pr-btn {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.group-446 {
+  background-color: var(--christi);
+  border-radius: 3px;
+  display: flex;
+  height: 36px;
+  width: 145px;
+}
