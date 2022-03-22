@@ -133,7 +133,7 @@ DATABASES = {
         'HOST': 'ec2-3-225-213-67.compute-1.amazonaws.com',
         'PORT': 5432,
         'USER': 'toosnszwgvkodh',
-        'PASSWORD': 'b96f0ed1d13a0e7263da04f32cc0766d39053759383988be70bdb8072c4d963f'
+        'PASSWORD': 'b96f0ed1d13a0e7263da04f32cc0766d39053759383988be70bdb8072c4d963f',
     }
 }
 
@@ -201,4 +201,4 @@ cloudinary.config(
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
-
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
