@@ -187,9 +187,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_ALL_ORIGINS = True
 
 cloudinary.config(
-    cloud_name="dyjd1zitl",
-    api_key="116874972599146",
-    api_secret="JgEowMoweOkRk0NvZJIjy4ZBK",
+    cloud_name="hskrtogaz",
+    api_key="446633345486728",
+    api_secret="kIcRsdQG8mjH6iP2fOdnMit0bKI",
     secure=True
 )
 django_heroku.settings(locals())
