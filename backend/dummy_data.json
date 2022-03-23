@@ -8,7 +8,7 @@
 {
   "_id": "2",
   "name": "Hoodyboi",
-  "image": "images/pngfind-com-kiss-print-png-4786426.png",
+  "image": "./images/pngfind-com-kiss-print-png-4786426.png",
   "price": 29.99,
 
 },
