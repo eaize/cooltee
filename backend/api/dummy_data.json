@@ -1,0 +1,75 @@
+[
+  {
+  "_id": "1",
+  "name": "Galaxy",
+  "image": "./images/419-4196361-shirt-template-png@1x.png",
+  "price": 19.99,
+},
+{
+  "_id": "2",
+  "name": "Hoodyboi",
+  "image": "images/pngfind-com-kiss-print-png-4786426.png",
+  "price": 29.99,
+
+},
+{
+  "_id": "3",
+  "name": "Bruh",
+  "image": "images/pngfind-com-yellow-shirt-png-5436431.png",
+  "price": 16.99,
+}, 
+{
+  "_id": "4",
+  "name": "Nype",
+  "image": "/images/pngfind-com-kappa-alpha-psi-diamond-3496578.png",
+  "price": 11.99,
+},
+{
+  "_id": "5",
+  "name": "AEO",
+  "image": "/images/pngfind-com-kappa-alpha-psi-png-5534754.png",
+  "price": 19.99,
+},
+{
+  "_id": "6",
+  "name": "Kappa",
+  "image": "/images/pngfind-com-kappa-png-552640.png",
+  "price": 29.99,
+},
+{
+  "_id": "7",
+  "name": "Pergamino",
+  "image": "/images/pngfind-com-pergamino-png-2076030@1x.png",
+  "price": 109.99,
+},
+{
+  "_id": "8",
+  "name": "Learnwith",
+  "image": "/images/pngfind-com-josh-dun-png-6295207.png",
+  "price": 79.99,
+},
+{
+  "_id": "10",
+  "name": "Santa",
+  "image": "/images/pngfind-com-california-flag-png-6890115.png",
+  "price": 199.99,
+},
+{
+  "_id": "11",
+  "name": "Sea Dog",
+  "image": "/images/pngfind-com-british-flag-png-713193.png",
+  "price": 299.99,
+},
+{
+  "_id": "12",
+  "name": "We Stand",
+  "image": "/images/pngfind-com-fallen-png-3480290.png",
+  "price": 169.99,
+},
+{
+  "_id": "12",
+  "name": "Trinidad",
+  "image": "/images/pngfind-com-trinidad-flag-png-6075105.png",
+  "price": 119.99,
+},
+]

@@ -259,6 +259,7 @@ main {
     white-space: nowrap;
     padding-bottom: 7%;
     margin-bottom: -9px;
+    margin-left: -14%;
   }
   
   .card-text {
@@ -266,6 +267,7 @@ main {
     line-height: 20px;
     min-height: 30px;
     white-space: nowrap;
+    margin-left: -12%;
   }
 
   .boxi {

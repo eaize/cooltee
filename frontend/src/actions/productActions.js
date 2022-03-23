@@ -49,11 +49,11 @@ export const listProducts = (keyword = '') => async (dispatch) => {
     }
 }
 
-export const listTopProducts = () => async (dispatch) => {
+export const listTopProducts = (keyword = '') => async (dispatch) => {
     try {
         dispatch({ type: PRODUCT_TOP_REQUEST })
 
-        const { data } = await axios.get(`./api/products/top/`)
+        const { data } = await axios.get(`./api/products/top${keyword}`)
 
         dispatch({
             type: PRODUCT_TOP_SUCCESS,
