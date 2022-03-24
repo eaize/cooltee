@@ -3,7 +3,7 @@
     "model": "base.product",
     "pk": 1,
     "fields": {
-      "user": "eaize",
+      "user": "1",
       "brand": "L",
       "category": "shirt",
       "description": "x",
@@ -21,7 +21,7 @@
   "model": "base.product",
   "pk": 2,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -39,7 +39,7 @@
   "model": "base.product",
   "pk": 3,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -57,7 +57,7 @@
   "model": "base.product",
   "pk": 4,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -75,7 +75,7 @@
   "model": "base.product",
   "pk": 5,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -93,7 +93,7 @@
   "model": "base.product",
   "pk": 6,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -111,7 +111,7 @@
   "model": "base.product",
   "pk": 7,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -129,7 +129,7 @@
   "model": "base.product",
   "pk": 8,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -147,7 +147,7 @@
     "model": "base.product",
     "pk": 1,
     "fields": {
-      "user": "eaize",
+      "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -165,7 +165,7 @@
   "model": "base.product",
   "pk": 11,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -183,7 +183,7 @@
   "model": "base.product",
   "pk": 12,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
@@ -201,7 +201,7 @@
   "model": "base.product",
   "pk": 13,
   "fields": {
-    "user": "eaize",
+    "user": "1",
     "brand": "L",
     "category": "shirt",
     "description": "x",
